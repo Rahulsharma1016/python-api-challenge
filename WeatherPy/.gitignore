@@ -1,0 +1,8 @@
+# Adding config.py file.
+api_keys.py
+
+# OpenWeatherMap API Key
+weather_api_key = "fa0f83ad538f4874754e565f9a39d792"
+
+# Geoapify API Key
+geoapify_key = "3579808967da40158eb03bcd642e7b47"
